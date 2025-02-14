@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://pastebin.com/raw/eEDYWj8p"))()
+task.wait(0.1)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JakeScripterz/Hakari/refs/heads/main/Hakari%20VFX"))()
